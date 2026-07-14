@@ -1,0 +1,14 @@
+{
+    "agents": [
+        "copilot",
+        "junie",
+        "kiro",
+        "claude_code"
+    ],
+    "cloud": false,
+    "skills": [
+        "laravel-best-practices",
+        "pest-testing",
+        "tailwindcss-development"
+    ]
+}
